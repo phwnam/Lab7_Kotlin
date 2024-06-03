@@ -43,6 +43,7 @@ fun MyApp(){
         composable("home"){ HomeScreen(navController) }
         composable("bai1"){ Bai1(navController)}
         composable("bai2"){ Bai2(navController)}
+        composable("bai3"){ Bai3(navController) }
     }
 }
 
